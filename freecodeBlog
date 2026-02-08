@@ -1,0 +1,1 @@
+https://www.freecodecamp.org/news/host-a-static-website-on-aws-s3-and-cloudfront/?fbclid=IwY2xjawPX-otleHRuA2FlbQIxMABicmlkETFsdmJlMERwNlEwVTFTdnpZc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjlz4rn5mY-NRcUkG3wa99pbi1NVoa5hgCm2Va5OW0NXGqaN9HaiUWjMSccU_aem_aAL2hB9kZORPISqmnie-eg
